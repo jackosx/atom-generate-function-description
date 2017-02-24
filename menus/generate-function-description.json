@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Generate Function Description",
+        "command": "generate-function-description:generate"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Generate Function Description",
+          "submenu": [
+            {
+              "label": "Generate Function Description",
+              "command": "generate-function-description:generate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
