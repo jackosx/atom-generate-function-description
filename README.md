@@ -1,4 +1,4 @@
-# Generate Function Description Atom Plugin
+# Generate Function Description – Atom Plugin
 
 Package that generates comments describing functions.
 
