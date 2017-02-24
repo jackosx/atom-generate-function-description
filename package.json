@@ -1,10 +1,9 @@
 {
   "name": "generate-function-description",
   "main": "./lib/generate-function-description",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generates comments describing functions",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "generate-function-description:generate"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
