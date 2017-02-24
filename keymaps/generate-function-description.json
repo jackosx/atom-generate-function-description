@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-/": "generate-function-description:toggle"
+    "cmd-ctrl-/": "generate-function-description:generate"
   }
 }

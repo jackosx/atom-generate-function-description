@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "generate-function-description:generate"
   },
-  "repository": "https://github.com/jackosx/generate-function-description-atom",
+  "repository": "https://github.com/jackosx/atom-generate-function-description",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
