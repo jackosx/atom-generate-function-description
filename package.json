@@ -3,7 +3,7 @@
   "main": "./lib/generate-function-description",
   "version": "2.0.0",
   "description": "Generates comments describing functions",
-  "keywords": [],
+  "keywords": ["comment", "comments", "function", "generator"],
   "activationCommands": {
     "atom-workspace": "generate-function-description:generate"
   },
